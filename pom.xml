@@ -16,10 +16,9 @@
     </description>
     <url>http://github.com/Atmosphere/atmosphere-javascript</url>
     <scm>
-        <connection>scm:git:git@github.com:Atmosphere/atmosphere-javascript.git</connection>
-        <developerConnection>scm:git:git@github.com:Atmosphere/atmosphere-javascript.git</developerConnection>
-        <url>http://github.com/Atmosphere/atmosphere-javascript</url>
-      <tag>javascript-project-2.2.3</tag>
+        <connection>scm:git:git@github.com:Cosium/atmosphere-javascript.git</connection>
+        <developerConnection>scm:git:git@github.com:Cosium/atmosphere-javascript.git</developerConnection>
+        <url>http://github.com/Cosium/atmosphere-javascript</url>
   </scm>
     <prerequisites>
         <maven>2.2.0</maven>
